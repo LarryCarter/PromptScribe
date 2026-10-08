@@ -1,0 +1,8 @@
+Place the already-tested Prompt 01 through Prompt 10 Markdown files in this folder.
+PromptScribe runs *.md files alphabetically, so use names such as:
+01-application-overview.md
+02-structure.md
+...
+10-final-discovery.md
+
+Use {{APPLICATION_NAME}} and any other {{VARIABLE_NAME}} placeholders required by the prompts.

@@ -1,0 +1,11 @@
+{
+  "projectName": "MyApplication",
+  "promptSet": "legacy-analysis",
+  "variables": {},
+  "applications": [
+    {
+      "name": "MyApplication",
+      "variables": {}
+    }
+  ]
+}

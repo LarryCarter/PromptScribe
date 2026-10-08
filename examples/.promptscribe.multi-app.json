@@ -1,0 +1,21 @@
+{
+  "projectName": "LegacyPlatform",
+  "promptSet": "legacy-analysis",
+  "variables": {
+    "DOCUMENTATION_ROOT": "Documentation"
+  },
+  "applications": [
+    {
+      "name": "AccountOnboarding",
+      "variables": {
+        "APPLICATION_NAME": "AccountOnboarding"
+      }
+    },
+    {
+      "name": "Payments",
+      "variables": {
+        "APPLICATION_NAME": "Payments"
+      }
+    }
+  ]
+}

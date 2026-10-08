@@ -1,0 +1,7 @@
+Place the already-tested Prompt 11 through Prompt 20 Markdown files in this folder.
+PromptScribe runs *.md files alphabetically, so use names such as:
+11-architecture-mapping.md
+...
+20-final-documentation.md
+
+These prompts can read and append the MD/JSON artifacts produced by the first batch exactly as your manually-tested prompts already instruct.

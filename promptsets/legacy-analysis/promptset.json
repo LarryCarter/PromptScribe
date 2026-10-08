@@ -1,0 +1,21 @@
+{
+  "name": "Legacy Application Analysis",
+  "defaultModel": null,
+  "variables": {},
+  "batches": [
+    {
+      "name": "Discovery",
+      "path": "01-discovery",
+      "preserveContext": true,
+      "model": null,
+      "variables": {}
+    },
+    {
+      "name": "Expansion",
+      "path": "02-expansion",
+      "preserveContext": true,
+      "model": null,
+      "variables": {}
+    }
+  ]
+}
